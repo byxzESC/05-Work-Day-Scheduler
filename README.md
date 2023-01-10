@@ -2,7 +2,9 @@
 
 ## Description 
 
-    This simple calender application allows user to save their schedule for each hour of the day. It dynamically updated the HTML to show what schedule passed, happening or coming. 
+    This simple calender application allows user to save their schedule for each hour of the day. 
+    
+    It dynamically updated the HTML to show what schedule passed, happening or coming. 
 
 
 Github Repo: https://github.com/byxzESC/05-Work-Day-Scheduler

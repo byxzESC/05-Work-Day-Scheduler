@@ -62,8 +62,9 @@ $(function () {
   // check current hour with dayjs and compare with id of timeblock
   function updateTime () {
     // get current hour with dayjs
-    // var currentHour = parseInt(dayjs().format('HH'));
-    var currentHour = 15;
+
+    var currentHour = parseInt(dayjs().format('HH'));
+
     // Acceptance Criteria --- view the timeblocks for that day, each timeblock is color coded to indicate whether it is in the past, present, or future
     for (var i = 0; i < timeBlock.length; i++) {
       // get timeblock hour
